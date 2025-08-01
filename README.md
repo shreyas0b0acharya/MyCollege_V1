@@ -133,38 +133,6 @@ I'm currently developing a more robust version of this application with addition
 ---
 
 *This project is currently in development. Version 1 is a demo application, while Version 2 is being built as a full-featured production-ready application.*
-
-
-
-## ⚙️ Installation
-
-1. Clone the repository:
-```bash
-git clone https://github.com/your-username/MyCollege.git
-cd MyCollege
-```
-
-2. Install backend dependencies:
-```bash
-cd BackEnd
-npm install
-```
-
-3. Install frontend dependencies:
-```bash
-cd ../Frontend
-npm install
-```
-
-4. Set up your MySQL database (create a schema and update database configuration in backend files)
-
-5. Start the backend server:
-```bash
-cd ../BackEnd
-npm run dev
-```
-
-6. Start the frontend development server:
 ```bash
 cd ../Frontend
 npm start
