@@ -1,4 +1,4 @@
-# MyCollege - College Utility Platform
+# MyCollege - College Utility Platform (Version 1)
 
 A responsive college utility platform designed to centralize student resources and simplify daily academic tasks. This application provides personalized features for students to access timetables, college news, study materials, and more.
 
@@ -131,9 +131,3 @@ I'm currently developing a more robust version of this application with addition
 📧 [shreyasb19386@gmail.com](mailto:shreyasb19386@gmail.com)
 
 ---
-
-*This project is currently in development. Version 1 is a demo application, while Version 2 is being built as a full-featured production-ready application.*
-```bash
-cd ../Frontend
-npm start
-```
